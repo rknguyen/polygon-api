@@ -1,0 +1,6 @@
+{
+  "extends": "my-awesome-tsconfig",
+  "compilerOptions": {
+    "outDir": "built"
+  }
+}

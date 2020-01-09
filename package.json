@@ -1,0 +1,22 @@
+{
+  "name": "cf-polygon-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rknguyen/cf-polygon-uploader.git",
+  "author": "RK Nguyen [Nguyen, Minh Huy] <lw60290@linecorp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/js-sha512": "^0.7.0",
+    "@types/jssha": "^2.0.0",
+    "@types/request": "^2.48.4",
+    "@types/request-promise": "^4.1.45",
+    "dotenv": "^8.2.0",
+    "js-sha512": "^0.8.0",
+    "jssha": "^2.3.1",
+    "my-awesome-tsconfig": "^1.0.8",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "sha512": "^0.0.1"
+  }
+}
